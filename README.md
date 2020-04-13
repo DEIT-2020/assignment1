@@ -1,4 +1,4 @@
-# assignment1
-dart语言基础练习
-# 要求
-请仔细查看视频课程：从github中clone和提交作业
+A sample command-line application.
+
+Created from templates made available by Stagehand under a BSD-style
+[license](https://github.com/dart-lang/stagehand/blob/master/LICENSE).
