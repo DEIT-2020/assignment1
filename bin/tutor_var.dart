@@ -8,4 +8,11 @@ main(List<String> arguments) {
   print(nameStr);
   print(nameDy);
   print('Hello world: ${assignment1.calculate()}!');
+  test(nameDy);
+}
+
+test(dynamic myVar){
+  if(myVar is String) print("string");
+  if(myVar is bool) print("bool");
+
 }
